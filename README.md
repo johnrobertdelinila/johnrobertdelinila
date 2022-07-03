@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnrobertdelinila
 - 👀 I’m interested in Software Development and Data Analytics
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning AppSheet
 - 💞️ I’m looking to collaborate on Bill Gates and Tim Cook
 - 📫 How to reach me:
   delinila.johnrobert@icloud.com
